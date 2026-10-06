@@ -1,7 +1,5 @@
 # License Plate Detection
 
-# License Plate Detection
-
 ## Team Members
 
 * Chris Roy
