@@ -3,9 +3,9 @@
 ## Team Members
 
 * Chris Roy
-* [Team Member 2]
-* [Team Member 3]
-* [Team Member 4]
+* Njeh ABABIO
+* Unnati Shakya
+* Edwin Marquez
 
 ---
 
@@ -125,4 +125,4 @@ The project will be considered successful if the model reliably detects license 
 
 ### Risk 1 — Dataset Quality
 
-The selected dataset may contain inconsistent, missing, or difficult-to-detect license plate annota
+The selected dataset may contain inconsistent, missing, or difficult-to-detect license plate annotations
